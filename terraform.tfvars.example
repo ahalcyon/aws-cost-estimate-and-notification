@@ -1,0 +1,5 @@
+# 以下をコピーしてterraform.tfvarsファイルを作成し、値を設定してください。
+
+# recipient_email    = "your-email@example.com"
+# batch_schedule     = "cron(0 12 ? * MON *)" # 毎週月曜日の21時(JST)
+# batch_timezone     = "Asia/Tokyo"
